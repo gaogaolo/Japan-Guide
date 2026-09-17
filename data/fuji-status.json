@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-17T09:35:28.572Z",
+  "location": {
+    "name": "Kawaguchiko / Fuji Five Lakes",
+    "latitude": 35.4894,
+    "longitude": 138.6883,
+    "timezone": "Asia/Tokyo"
+  },
+  "methodology": "JMA official area forecast is shown when available. Recommendation score combines numerical precipitation probability, mean cloud cover and maximum wind; it is a planning aid only.",
+  "sources": {
+    "jma": "https://www.data.jma.go.jp/multi/yoho/yoho_detail.html?code=190020&lang=en",
+    "camera": "https://www.yamanashi-kankou.jp/fujisanwatcher/live/index.html",
+    "model": "https://open-meteo.com/"
+  },
+  "days": [
+    {
+      "date": "2026-09-17",
+      "score": 27,
+      "verdict": "skip",
+      "precipitationProbability": 100,
+      "cloudCover": 55,
+      "windSpeed": 11.5,
+      "weatherCode": 53,
+      "jma": {
+        "weather": "くもり　所により　雨",
+        "weatherCode": "200",
+        "precipitationProbability": 20,
+        "reliability": null
+      }
+    },
+    {
+      "date": "2026-09-18",
+      "score": 68,
+      "verdict": "go",
+      "precipitationProbability": 16,
+      "cloudCover": 35,
+      "windSpeed": 11.3,
+      "weatherCode": 3,
+      "jma": {
+        "weather": "くもり　所により　雨",
+        "weatherCode": "200",
+        "precipitationProbability": 30,
+        "reliability": null
+      }
+    },
+    {
+      "date": "2026-09-19",
+      "score": 14,
+      "verdict": "skip",
+      "precipitationProbability": 75,
+      "cloudCover": 90,
+      "windSpeed": 9.8,
+      "weatherCode": 3,
+      "jma": {
+        "weather": "くもり",
+        "weatherCode": "200",
+        "precipitationProbability": null,
+        "reliability": null
+      }
+    },
+    {
+      "date": "2026-09-20",
+      "score": 0,
+      "verdict": "skip",
+      "precipitationProbability": 98,
+      "cloudCover": 79,
+      "windSpeed": 16,
+      "weatherCode": 80,
+      "jma": null
+    },
+    {
+      "date": "2026-09-21",
+      "score": 10,
+      "verdict": "skip",
+      "precipitationProbability": 88,
+      "cloudCover": 45,
+      "windSpeed": 14.8,
+      "weatherCode": 81,
+      "jma": null
+    },
+    {
+      "date": "2026-09-22",
+      "score": 29,
+      "verdict": "skip",
+      "precipitationProbability": 69,
+      "cloudCover": 61,
+      "windSpeed": 3.8,
+      "weatherCode": 51,
+      "jma": null
+    },
+    {
+      "date": "2026-09-23",
+      "score": 25,
+      "verdict": "skip",
+      "precipitationProbability": 86,
+      "cloudCover": 69,
+      "windSpeed": 5.2,
+      "weatherCode": 51,
+      "jma": null
+    }
+  ]
+}
