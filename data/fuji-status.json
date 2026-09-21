@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T01:30:08.712Z",
+  "updatedAt": "2026-09-21T01:29:19.123Z",
   "location": {
     "name": "Kawaguchiko / Fuji Five Lakes",
     "latitude": 35.4894,
@@ -15,83 +15,83 @@
   },
   "days": [
     {
-      "date": "2026-09-20",
-      "score": 0,
-      "verdict": "skip",
-      "precipitationProbability": 100,
-      "cloudCover": 88,
-      "windSpeed": 12.6,
-      "weatherCode": 63,
-      "jma": {
-        "weather": "雨　所により　夜　雷を伴い　激しく　降る",
-        "weatherCode": "300",
-        "precipitationProbability": 90,
-        "reliability": null
-      }
-    },
-    {
       "date": "2026-09-21",
       "score": 0,
       "verdict": "skip",
       "precipitationProbability": 100,
-      "cloudCover": 93,
-      "windSpeed": 17.7,
+      "cloudCover": 82,
+      "windSpeed": 15.4,
       "weatherCode": 65,
       "jma": {
-        "weather": "雨　所により　雷を伴い　激しく　降る",
+        "weather": "雨　所により　昼前　から　夕方　雷を伴い　非常に　激しく　降る",
         "weatherCode": "300",
-        "precipitationProbability": 80,
+        "precipitationProbability": 50,
         "reliability": null
       }
     },
     {
       "date": "2026-09-22",
-      "score": 41,
+      "score": 31,
       "verdict": "skip",
-      "precipitationProbability": 45,
-      "cloudCover": 39,
-      "windSpeed": 14.8,
+      "precipitationProbability": 76,
+      "cloudCover": 44,
+      "windSpeed": 12.3,
+      "weatherCode": 2,
+      "jma": {
+        "weather": "晴れ　時々　くもり",
+        "weatherCode": "101",
+        "precipitationProbability": 20,
+        "reliability": null
+      }
+    },
+    {
+      "date": "2026-09-23",
+      "score": 34,
+      "verdict": "skip",
+      "precipitationProbability": 84,
+      "cloudCover": 44,
+      "windSpeed": 10.6,
       "weatherCode": 2,
       "jma": null
     },
     {
-      "date": "2026-09-23",
-      "score": 20,
-      "verdict": "skip",
-      "precipitationProbability": 85,
-      "cloudCover": 79,
-      "windSpeed": 5.9,
-      "weatherCode": 55,
-      "jma": null
-    },
-    {
       "date": "2026-09-24",
-      "score": 16,
+      "score": 24,
       "verdict": "skip",
-      "precipitationProbability": 99,
-      "cloudCover": 92,
-      "windSpeed": 4.6,
-      "weatherCode": 55,
+      "precipitationProbability": 76,
+      "cloudCover": 71,
+      "windSpeed": 5.6,
+      "weatherCode": 51,
       "jma": null
     },
     {
       "date": "2026-09-25",
       "score": 16,
       "verdict": "skip",
-      "precipitationProbability": 97,
-      "cloudCover": 92,
-      "windSpeed": 6.9,
+      "precipitationProbability": 98,
+      "cloudCover": 98,
+      "windSpeed": 4,
       "weatherCode": 55,
       "jma": null
     },
     {
       "date": "2026-09-26",
-      "score": 0,
+      "score": 16,
       "verdict": "skip",
-      "precipitationProbability": 95,
-      "cloudCover": 99,
-      "windSpeed": 3.9,
-      "weatherCode": 80,
+      "precipitationProbability": 93,
+      "cloudCover": 100,
+      "windSpeed": 4.7,
+      "weatherCode": 55,
+      "jma": null
+    },
+    {
+      "date": "2026-09-27",
+      "score": 16,
+      "verdict": "skip",
+      "precipitationProbability": 92,
+      "cloudCover": 98,
+      "windSpeed": 4.3,
+      "weatherCode": 55,
       "jma": null
     }
   ]
